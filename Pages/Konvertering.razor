@@ -1,0 +1,49 @@
+﻿@page "/konvertering"
+
+<h3>Konvertering</h3>
+
+<h2>Konvertera Meter till Fot:</h2>
+
+<EditForm Model="@model" OnSubmit="@HandleSubmit">
+	<InputText id="metres" @bind-Value="model.StrMetres" @onchange="HandleSubmit"/>
+
+	<button type="submit" @onclick="HandleSubmit">Konvertera</button>
+</EditForm> <br />
+
+<p>Svar: <strong>@model.StrFeet</strong> Fot.</p> 
+
+<h2>Km/h till Mph:</h2>
+<label for="kmh">Kilometer / timme:</label>
+<input type="number" name="kmh" id="kmh" @bind-value="Kmh" /> 
+<button @onclick="() => { CalculateMph(); }">Konvertera</button> <br />
+
+<p>Miles per hour: @Mph</p>
+
+
+@code {
+	//Variabler för att lagra 
+	double Kmh = 0;
+	int Mph = 0;
+
+	public int CalculateMph() {
+		Mph = (int)(Kmh / 1.609344); //Dela double Kmh med  1.609344 och Casta till Int
+
+		return Mph;
+	}
+
+	//Testar att lösa M till Foot med OOP, skapat en klass som heter InputModel som liiger under Shared
+	//Instansiera klassen InputModel
+	private InputModel model = new InputModel();
+
+	//Räkna ut M -> Feet vid submit
+	private void HandleSubmit() 
+	{
+		CalculateFeet();
+	}
+
+	private void CalculateFeet() {
+		model.ConvertToDouble();
+		model.ConvertToFeet(); //Genomför konverteringen
+	}
+
+}
