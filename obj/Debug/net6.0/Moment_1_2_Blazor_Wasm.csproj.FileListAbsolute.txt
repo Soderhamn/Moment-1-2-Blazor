@@ -804,8 +804,6 @@ C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.2 Blazor\Mom
 C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.2 Blazor\Moment_1_2_Blazor_Wasm\obj\Debug\net6.0\blazor.boot.json
 C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.2 Blazor\Moment_1_2_Blazor_Wasm\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.2 Blazor\Moment_1_2_Blazor_Wasm\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.2 Blazor\Moment_1_2_Blazor_Wasm\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.2 Blazor\Moment_1_2_Blazor_Wasm\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.2 Blazor\Moment_1_2_Blazor_Wasm\obj\Debug\net6.0\scopedcss\bundle\Moment_1_2_Blazor_Wasm.styles.css
 C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.2 Blazor\Moment_1_2_Blazor_Wasm\obj\Debug\net6.0\scopedcss\projectbundle\Moment_1_2_Blazor_Wasm.bundle.scp.css
 C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.2 Blazor\Moment_1_2_Blazor_Wasm\obj\Debug\net6.0\Moment_1_2_Blazor_Wasm.csproj.CopyComplete

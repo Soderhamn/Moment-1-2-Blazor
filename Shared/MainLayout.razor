@@ -1,11 +1,15 @@
 ﻿@inherits LayoutComponentBase
-
-<div class="page">
-    <div class="sidebar">
+<header>
+    <img src="" alt="Blazor-app logotyp"/>
+</header>
+    <div class="container padding-16">
         <NavMenu />
     </div>
 
-    <main>
+    <main class="padding-16">
         @Body
     </main>
-</div>
+
+    <footer>
+        <p>Av: Marcus Andersson, 2023</p>
+    </footer>
