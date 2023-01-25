@@ -4,9 +4,22 @@
 <PageTitle>Läsa JSON</PageTitle>
 
 <h3>Json</h3>
+<p>@employee[0].Name, @employee[0].Salary, @employee[0].Age</p>
 
 @code {
-	public string url = "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/btc.json";
+    private string url = "jsonData/employees.json";
+    private Employee[]? employee;
 
 
+
+    protected override async Task OnInitializedAsync()
+    {
+        employee = await Http.GetFromJsonAsync<Employee[]>("jsonData/employees.json");
+    }
+
+    public class Employee {
+        public string? Name { get; set; }
+        public double? Salary { get; set; }
+        public int? Age { get; set; }
+    }
 }

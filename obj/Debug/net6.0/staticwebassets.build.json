@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "amWfctJZVUh+2TjJWaTIdT176O12CP9WspZvnMPHNv8=",
+  "Hash": "M/VFvsjB9u9f7hRvJ4z1X5qMZgTY2syzw8AdXXCydqM=",
   "Source": "Moment_1_2_Blazor_Wasm",
   "BasePath": "/",
   "Mode": "Root",
@@ -7089,12 +7089,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\wwwroot\\sample-data\\weather.json",
+      "Identity": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\wwwroot\\jsonData\\employees.json",
       "SourceId": "Moment_1_2_Blazor_Wasm",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "sample-data/weather.json",
+      "RelativePath": "jsonData/employees.json",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7103,7 +7103,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
+      "OriginalItemSpec": "wwwroot\\jsonData\\employees.json"
     }
   ]
 }

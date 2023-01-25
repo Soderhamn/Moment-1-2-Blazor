@@ -1,0 +1,32 @@
+﻿[
+  {
+    "name": "Olle Olsson",
+    "salary": 45000,
+    "age": 50
+  },
+  {
+    "name": "Per Persson",
+    "salary": 29000,
+    "age": 30
+  },
+  {
+    "name": "Anders Andersson",
+    "salary": 25000,
+    "age": 25
+  },
+  {
+    "name": "Erik Eriksson",
+    "salary": 47000,
+    "age": 60
+  },
+  {
+    "name": "Mohammed Olsson",
+    "salary": 35000,
+    "age": 40
+  },
+  {
+    "name": "Sven Svensson",
+    "salary": 19000,
+    "age": 19
+  }
+]
