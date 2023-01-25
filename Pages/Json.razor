@@ -4,7 +4,32 @@
 <PageTitle>Läsa JSON</PageTitle>
 
 <h3>Json</h3>
-<p>@employee[0].Name, @employee[0].Salary, @employee[0].Age</p>
+<h4>Lista över Anställda i Låtsasföretaget AB</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Namn</th>
+            <th>Lön</th>
+            <th>Ålder</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            if(employee != null) { //Kolla så employee inte är null
+            @foreach (var e in employee) //Loopa igenom alla anställda & skriv ut dessa i tabellen
+            {
+                <tr>
+                    <td>@e.Name</td>
+                    <td>@e.Salary</td>
+                    <td>@e.Age</td>
+                </tr>
+            }
+        }
+        }
+
+    </tbody>
+</table>
+
 
 @code {
     private string url = "jsonData/employees.json";

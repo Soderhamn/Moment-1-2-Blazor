@@ -9,61 +9,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 114038928,
+        "HashCode": -1625268271,
         "Kind": "Components.Component",
-        "Name": "Moment_1_2_Blazor_Wasm.Shared.MarcusKomponent",
+        "Name": "Moment_1_2_Blazor_Wasm.Shared.NavMenu",
         "AssemblyName": "Moment_1_2_Blazor_Wasm",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "MarcusKomponent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Shared.MarcusKomponent",
+          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Shared.NavMenu",
           "Common.TypeNamespace": "Moment_1_2_Blazor_Wasm.Shared",
-          "Common.TypeNameIdentifier": "MarcusKomponent"
+          "Common.TypeNameIdentifier": "NavMenu"
         }
       },
       {
-        "HashCode": 396461293,
+        "HashCode": 1282700661,
         "Kind": "Components.Component",
-        "Name": "Moment_1_2_Blazor_Wasm.Shared.MarcusKomponent",
+        "Name": "Moment_1_2_Blazor_Wasm.Shared.NavMenu",
         "AssemblyName": "Moment_1_2_Blazor_Wasm",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Moment_1_2_Blazor_Wasm.Shared.MarcusKomponent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
+            "TagName": "Moment_1_2_Blazor_Wasm.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Shared.MarcusKomponent",
+          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Shared.NavMenu",
           "Common.TypeNamespace": "Moment_1_2_Blazor_Wasm.Shared",
-          "Common.TypeNameIdentifier": "MarcusKomponent",
+          "Common.TypeNameIdentifier": "NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -174,150 +152,98 @@
         }
       },
       {
-        "HashCode": -1625268271,
+        "HashCode": 114038928,
         "Kind": "Components.Component",
-        "Name": "Moment_1_2_Blazor_Wasm.Shared.NavMenu",
+        "Name": "Moment_1_2_Blazor_Wasm.Shared.MarcusKomponent",
         "AssemblyName": "Moment_1_2_Blazor_Wasm",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "MarcusKomponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Shared.NavMenu",
+          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Shared.MarcusKomponent",
           "Common.TypeNamespace": "Moment_1_2_Blazor_Wasm.Shared",
-          "Common.TypeNameIdentifier": "NavMenu"
+          "Common.TypeNameIdentifier": "MarcusKomponent"
         }
       },
       {
-        "HashCode": 1282700661,
+        "HashCode": 396461293,
         "Kind": "Components.Component",
-        "Name": "Moment_1_2_Blazor_Wasm.Shared.NavMenu",
+        "Name": "Moment_1_2_Blazor_Wasm.Shared.MarcusKomponent",
         "AssemblyName": "Moment_1_2_Blazor_Wasm",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Moment_1_2_Blazor_Wasm.Shared.NavMenu"
+            "TagName": "Moment_1_2_Blazor_Wasm.Shared.MarcusKomponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Shared.NavMenu",
+          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Shared.MarcusKomponent",
           "Common.TypeNamespace": "Moment_1_2_Blazor_Wasm.Shared",
-          "Common.TypeNameIdentifier": "NavMenu",
+          "Common.TypeNameIdentifier": "MarcusKomponent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1645744468,
+        "HashCode": 700065703,
         "Kind": "Components.Component",
-        "Name": "Moment_1_2_Blazor_Wasm.App",
+        "Name": "Moment_1_2_Blazor_Wasm.Pages.Konvertering",
         "AssemblyName": "Moment_1_2_Blazor_Wasm",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Konvertering"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Moment_1_2_Blazor_Wasm.App",
-          "Common.TypeNamespace": "Moment_1_2_Blazor_Wasm",
-          "Common.TypeNameIdentifier": "App"
-        }
-      },
-      {
-        "HashCode": -425319882,
-        "Kind": "Components.Component",
-        "Name": "Moment_1_2_Blazor_Wasm.App",
-        "AssemblyName": "Moment_1_2_Blazor_Wasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Moment_1_2_Blazor_Wasm.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Moment_1_2_Blazor_Wasm.App",
-          "Common.TypeNamespace": "Moment_1_2_Blazor_Wasm",
-          "Common.TypeNameIdentifier": "App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 463964941,
-        "Kind": "Components.Component",
-        "Name": "Moment_1_2_Blazor_Wasm.Pages.Counter",
-        "AssemblyName": "Moment_1_2_Blazor_Wasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Pages.Counter",
+          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Pages.Konvertering",
           "Common.TypeNamespace": "Moment_1_2_Blazor_Wasm.Pages",
-          "Common.TypeNameIdentifier": "Counter"
+          "Common.TypeNameIdentifier": "Konvertering"
         }
       },
       {
-        "HashCode": -1765525206,
+        "HashCode": 1509054032,
         "Kind": "Components.Component",
-        "Name": "Moment_1_2_Blazor_Wasm.Pages.Counter",
+        "Name": "Moment_1_2_Blazor_Wasm.Pages.Konvertering",
         "AssemblyName": "Moment_1_2_Blazor_Wasm",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Moment_1_2_Blazor_Wasm.Pages.Counter"
+            "TagName": "Moment_1_2_Blazor_Wasm.Pages.Konvertering"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Pages.Counter",
+          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Pages.Konvertering",
           "Common.TypeNamespace": "Moment_1_2_Blazor_Wasm.Pages",
-          "Common.TypeNameIdentifier": "Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1640464112,
-        "Kind": "Components.Component",
-        "Name": "Moment_1_2_Blazor_Wasm.Pages.FetchData",
-        "AssemblyName": "Moment_1_2_Blazor_Wasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Pages.FetchData",
-          "Common.TypeNamespace": "Moment_1_2_Blazor_Wasm.Pages",
-          "Common.TypeNameIdentifier": "FetchData"
-        }
-      },
-      {
-        "HashCode": -452227159,
-        "Kind": "Components.Component",
-        "Name": "Moment_1_2_Blazor_Wasm.Pages.FetchData",
-        "AssemblyName": "Moment_1_2_Blazor_Wasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Moment_1_2_Blazor_Wasm.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Pages.FetchData",
-          "Common.TypeNamespace": "Moment_1_2_Blazor_Wasm.Pages",
-          "Common.TypeNameIdentifier": "FetchData",
+          "Common.TypeNameIdentifier": "Konvertering",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -396,39 +322,39 @@
         }
       },
       {
-        "HashCode": 700065703,
+        "HashCode": -1645744468,
         "Kind": "Components.Component",
-        "Name": "Moment_1_2_Blazor_Wasm.Pages.Konvertering",
+        "Name": "Moment_1_2_Blazor_Wasm.App",
         "AssemblyName": "Moment_1_2_Blazor_Wasm",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Konvertering"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Pages.Konvertering",
-          "Common.TypeNamespace": "Moment_1_2_Blazor_Wasm.Pages",
-          "Common.TypeNameIdentifier": "Konvertering"
+          "Common.TypeName": "Moment_1_2_Blazor_Wasm.App",
+          "Common.TypeNamespace": "Moment_1_2_Blazor_Wasm",
+          "Common.TypeNameIdentifier": "App"
         }
       },
       {
-        "HashCode": 1509054032,
+        "HashCode": -425319882,
         "Kind": "Components.Component",
-        "Name": "Moment_1_2_Blazor_Wasm.Pages.Konvertering",
+        "Name": "Moment_1_2_Blazor_Wasm.App",
         "AssemblyName": "Moment_1_2_Blazor_Wasm",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Moment_1_2_Blazor_Wasm.Pages.Konvertering"
+            "TagName": "Moment_1_2_Blazor_Wasm.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Moment_1_2_Blazor_Wasm.Pages.Konvertering",
-          "Common.TypeNamespace": "Moment_1_2_Blazor_Wasm.Pages",
-          "Common.TypeNameIdentifier": "Konvertering",
+          "Common.TypeName": "Moment_1_2_Blazor_Wasm.App",
+          "Common.TypeNamespace": "Moment_1_2_Blazor_Wasm",
+          "Common.TypeNameIdentifier": "App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -15724,18 +15650,8 @@
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "c:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "c:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\Pages\\Index.razor",
       "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {

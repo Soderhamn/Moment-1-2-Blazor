@@ -11,49 +11,41 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Moment_1_2_Blazor_Wasm
 build_property.RootNamespace = Moment_1_2_Blazor_Wasm
-build_property.ProjectDir = c:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.2 Blazor\Moment_1_2_Blazor_Wasm\
+build_property.ProjectDir = C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.2 Blazor\Moment_1_2_Blazor_Wasm\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.2 Blazor\Moment_1_2_Blazor_Wasm
+build_property.MSBuildProjectDirectory = C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.2 Blazor\Moment_1_2_Blazor_Wasm
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/App.razor]
+[C:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/Pages/Index.razor]
+[C:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/Pages/Json.razor]
+[C:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/Pages/Json.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnNvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/Pages/Konvertering.razor]
+[C:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/Pages/Konvertering.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS29udmVydGVyaW5nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/Shared/MarcusKomponent.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1hcmN1c0tvbXBvbmVudC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/_Imports.razor]
+[C:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/Shared/MainLayout.razor]
+[C:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-hr8xd53xoe
 
-[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/Shared/NavMenu.razor]
+[C:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/Shared/MarcusKomponent.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1hcmN1c0tvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-egr974vnpb
+
+[C:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment1/1.2 Blazor/Moment_1_2_Blazor_Wasm/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-4taw0v5mqp

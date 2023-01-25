@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M/VFvsjB9u9f7hRvJ4z1X5qMZgTY2syzw8AdXXCydqM=",
+  "Hash": "1ZX48XPCtQw+4fS+A3HFZqXMg2fZ0Ub2I4ew9u3Vu9o=",
   "Source": "Moment_1_2_Blazor_Wasm",
   "BasePath": "/",
   "Mode": "Root",
@@ -102,23 +102,6 @@
       "OriginalItemSpec": "C:\\Users\\marcu\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\runtimes\\browser-wasm\\native\\dotnet.wasm"
     },
     {
-      "Identity": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
-      "SourceId": "Moment_1_2_Blazor_Wasm",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt.dat",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "native",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\marcu\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\runtimes\\browser-wasm\\native\\icudt.dat"
-    },
-    {
       "Identity": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "Moment_1_2_Blazor_Wasm",
       "SourceType": "Computed",
@@ -168,6 +151,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\marcu\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+    },
+    {
+      "Identity": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
+      "SourceId": "Moment_1_2_Blazor_Wasm",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt.dat",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "native",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\marcu\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\runtimes\\browser-wasm\\native\\icudt.dat"
     },
     {
       "Identity": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
@@ -6885,6 +6885,23 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Identity": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "Moment_1_2_Blazor_Wasm",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+    },
+    {
       "Identity": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Moment_1_2_Blazor_Wasm",
       "SourceType": "Discovered",
@@ -6985,23 +7002,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
-    },
-    {
-      "Identity": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "Moment_1_2_Blazor_Wasm",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.2 Blazor\\Moment_1_2_Blazor_Wasm\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
