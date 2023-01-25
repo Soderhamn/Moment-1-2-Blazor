@@ -1,15 +1,20 @@
 ﻿@inherits LayoutComponentBase
-<header>
-    <img src="" alt="Blazor-app logotyp"/>
-</header>
+
+<div id="gridContainer">
+    <header>
+        <img src="images/BlazorWebbplatsen.gif" alt="Blazor-app logotyp"/>
+    </header>
     <div class="container padding-16">
-        <NavMenu />
+        <div class="padding-16">
+            <NavMenu />
+        </div>
+
+        <main class="padding-16">
+            @Body
+        </main>
+
+        <footer class="padding-16">
+            <p>Av: Marcus Andersson, <a href="mailto:maan2117@student.miun.se">maan2117@student.miun.se</a>, 2023</p>
+        </footer>
     </div>
-
-    <main class="padding-16">
-        @Body
-    </main>
-
-    <footer>
-        <p>Av: Marcus Andersson, 2023</p>
-    </footer>
+</div>

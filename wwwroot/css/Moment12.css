@@ -7,13 +7,20 @@
   body {
     margin: 0px;
     padding: 0px;
-    display: grid;
-    grid-template-areas:
-    "header"
-    "container";
-    grid-row-gap: 16px;
-    border: 1px solid green;
   }
+
+button {
+    padding: 8px;
+    background-color: green;
+    color: white;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    width: 100%;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+
   
   header {
     grid-area: header;
@@ -26,6 +33,14 @@
     padding: 16px;
     overflow: hidden;
     border: 1px solid red;
+  }
+
+  input {
+      padding: 4px;
+      border: 1px solid black;
+      background-color: lightyellow;
+      width: 100%;
+      margin-bottom: 10px;
   }
   
   nav {
@@ -80,6 +95,16 @@
   footer a {
     color: #000000;
   }
+
+  table {
+      width: 100%;
+      padding: 8px;
+  }
+
+  th, td {
+      padding: 4px;
+      border: 1px solid black;
+  }
   
   /*-------Klasser------*/
   .container {
@@ -103,6 +128,16 @@
   .padding-16 {
     padding: 16px;
   }
+
+/*
+.app {
+    display: grid;
+    grid-template-areas:
+        "header"
+        "container";
+    grid-row-gap: 16px;
+    border: 1px solid green;
+}*/
   
   /*------Id---------*/
   #dateParagraph {
@@ -112,6 +147,16 @@
     border: 1px solid black;
     height: 32px;
   }
+
+#marcusKomponent {
+    background-color: red;
+    padding: 16px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-shadow: 1px 1px black;
+    border: 2px solid orange;
+}
   
   /*Ändra Grid till fullbredd på mobilen*/
   @media screen and (max-width: 599px) {
